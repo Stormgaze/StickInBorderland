@@ -1,0 +1,5 @@
+{
+  "death.attack.laser": "%s was obliterated by an orbital laser",
+  "death.attack.laser.item": "%s was obliterated by an orbital laser from %s using %s",
+  "death.attack.laser.player": "%s was obliterated by an orbital laser while trying to escape %s"
+}
